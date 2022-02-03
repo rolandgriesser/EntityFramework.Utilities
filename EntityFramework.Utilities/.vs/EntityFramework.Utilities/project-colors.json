@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3211bac-13f0-42a7-924c-34bb0ee77914": {
+      "ProjectGuid": "c3211bac-13f0-42a7-924c-34bb0ee77914",
+      "DisplayName": "EntityFramework.Utilities",
+      "ColorIndex": 0
+    },
+    "b888c7a8-d29c-4ed2-b408-c74e36808e9e": {
+      "ProjectGuid": "b888c7a8-d29c-4ed2-b408-c74e36808e9e",
+      "DisplayName": "PerformanceTests",
+      "ColorIndex": 1
+    },
+    "3b0bc291-8087-4f0f-ba20-2cfb4719be2b": {
+      "ProjectGuid": "3b0bc291-8087-4f0f-ba20-2cfb4719be2b",
+      "DisplayName": "Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
